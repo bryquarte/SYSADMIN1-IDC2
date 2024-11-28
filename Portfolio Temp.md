@@ -96,9 +96,7 @@ quizzes/activities/exam\>**
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+  I expected to learn more about System Administration, especially troubleshooting and yes, it exceeded my expectations. I learned even more rather than just troubleshooting.
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
