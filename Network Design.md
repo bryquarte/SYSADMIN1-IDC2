@@ -14,7 +14,8 @@ experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
 
-                    ![image](https://github.com/user-attachments/assets/ac0ed2d9-8e0f-4a45-9663-5220f9ee66ef)
+![image](https://github.com/user-attachments/assets/c7477791-5810-4199-8948-e5890f5b3c31)
+
 
 
 
