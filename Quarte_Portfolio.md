@@ -158,9 +158,7 @@ Were there any particular assignments, projects, or activities that
 significantly enhanced your learning experience? Why were they
 effective?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+I really do love lab activities or like actual learning. For me, they are a big help in enhancing my learning experience because I can understand much better when I am doing it rather than reading or memorizing stuff during lecture.  
 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
