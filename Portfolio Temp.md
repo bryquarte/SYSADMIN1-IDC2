@@ -123,12 +123,13 @@ Lab Activity on Web Server Monitoring 10/17/2024
 
 Finals
 
-Quiz on Recovery 11/21/2024
 
-![image](https://github.com/user-attachments/assets/c0e84a40-f2cf-40ff-b08f-734152ee1f9e)
 
 ![image](https://github.com/user-attachments/assets/2dc9a8c0-288d-4767-9dc4-97800c350936)
 
+Quiz on Recovery 11/21/2024
+
+![image](https://github.com/user-attachments/assets/c0e84a40-f2cf-40ff-b08f-734152ee1f9e)
 
 **Course Reflection**
 
