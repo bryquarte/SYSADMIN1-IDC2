@@ -117,6 +117,7 @@ Lab Activity on Platform Services 10/17/2024
 
 ![image](https://github.com/user-attachments/assets/9462d294-4f0a-4ae8-9145-977e3bd36fee)
 
+Lab Activity on Web Server Monitoring 10/17/2024
 
 ![image](https://github.com/user-attachments/assets/dcbfb031-f4b3-4411-afa5-2c43b23657d7)
 
