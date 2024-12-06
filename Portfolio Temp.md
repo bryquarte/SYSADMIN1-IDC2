@@ -95,8 +95,11 @@ Images of the Activities
 
 Prelims
 
-![image](https://github.com/user-attachments/assets/74e1f592-9ca2-48dd-bd33-5c03370ba23b)
+![image](https://github.com/user-attachments/assets/7c8aa550-001e-4d34-adbd-b1146ffe08b6)
+8/20/2024
 
+![image](https://github.com/user-attachments/assets/74e1f592-9ca2-48dd-bd33-5c03370ba23b)
+8/29/2024
 
 
 
