@@ -95,7 +95,7 @@ Images of the Activities
 
 Prelims
 
-8/20/2024
+Seatwork 8/20/2024
 
 ![image](https://github.com/user-attachments/assets/7c8aa550-001e-4d34-adbd-b1146ffe08b6)
 
