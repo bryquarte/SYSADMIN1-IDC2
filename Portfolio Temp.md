@@ -123,7 +123,7 @@ Lab Activity on Web Server Monitoring 10/17/2024
 
 Finals
 
-
+Lab Activity on Kerberos 11/14/2024
 
 ![image](https://github.com/user-attachments/assets/2dc9a8c0-288d-4767-9dc4-97800c350936)
 
