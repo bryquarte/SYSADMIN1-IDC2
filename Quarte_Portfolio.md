@@ -163,9 +163,7 @@ I really do love lab activities or like actual learning. For me, they are a big 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+The only challenge that I encounter during this subject is getting up early since I am renting quite far from the campus so I needed to wake up early for me to not be late especially on the lab schedule.
 
 Did the course encourage critical thinking and analysis? How did it
 promote higher-order thinking skills, such as problem-solving or
