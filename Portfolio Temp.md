@@ -99,11 +99,11 @@ Seatwork 8/20/2024
 
 ![image](https://github.com/user-attachments/assets/7c8aa550-001e-4d34-adbd-b1146ffe08b6)
 
-Lab Activity on Managing Services 8/29/2024
+Lab Activity on Managing Services on Windows 8/29/2024
 
 ![image](https://github.com/user-attachments/assets/74e1f592-9ca2-48dd-bd33-5c03370ba23b)
 
-9/12/2024
+Lab Activity on Managing Services on Linux 9/12/2024
 
 ![image](https://github.com/user-attachments/assets/5d992e11-7d05-4c73-90ab-12c4adae9dc8)
 
