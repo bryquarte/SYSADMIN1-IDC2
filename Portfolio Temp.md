@@ -121,6 +121,8 @@ Lab Activity on Web Server Monitoring 10/17/2024
 
 ![image](https://github.com/user-attachments/assets/dcbfb031-f4b3-4411-afa5-2c43b23657d7)
 
+Finals
+
 
 
 **Course Reflection**
