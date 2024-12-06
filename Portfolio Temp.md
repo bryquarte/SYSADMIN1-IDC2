@@ -101,9 +101,7 @@ exceed, or fall short of these expectations?
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+Some of the main topics on this course are the different types of Load balances, Infrastructure Security and about managing files and data. These topics helped me a lot in understanding the subject matter by doing lab activities. I’m not the memorizing type of a person so I really love doing lab activities because it helps me understand better than lecture stuff.
 
 Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
