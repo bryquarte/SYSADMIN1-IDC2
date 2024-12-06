@@ -107,7 +107,11 @@ Prelims
 
 ![image](https://github.com/user-attachments/assets/5d992e11-7d05-4c73-90ab-12c4adae9dc8)
 
+Midterms
 
+10/08/2024
+
+![image](https://github.com/user-attachments/assets/2554e337-e320-4dfb-851c-d0309c30c161)
 
 
 
