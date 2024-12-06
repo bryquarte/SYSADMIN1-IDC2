@@ -169,20 +169,15 @@ Did the course encourage critical thinking and analysis? How did it
 promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+The promotion of critical thinking and higher-order thinking skills is essential for preparing students for real life challenges. Critical thinking and analysis did help me navigate the complexities of the course System Administration. Engaging in discussions about ethical considerations in system administration helped me understand the complexities of making informed decisions. Challenging us students to create innovative solutions for hypothetical scenarios fosters creativity alongside critical thinking.
 
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
 
-  -----------------------------------------------------------------------
+I think I gained analytical thinking and collaboration skills from this course. Enhanced problem-solviong skills by tackling real-world scenarios allows me for better analysis and decision-making. It improves my collaborative skills through group work which I think we have done once. Documentation also helped me to develop the ability to document processes and systems which is vital for team communication and future reference.  
 
-  -----------------------------------------------------------------------
 
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+I plan to enroll in advanced courses related to cybersecurity, cloud computing and network administration to build upon the foundational skills learned. Continuous learning via online tutorials or online courses to stay updated on topics or new trends in system administration is also on the plan. 
