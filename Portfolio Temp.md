@@ -131,7 +131,7 @@ Quiz on Recovery 11/21/2024
 
 ![image](https://github.com/user-attachments/assets/c0e84a40-f2cf-40ff-b08f-734152ee1f9e)
 
-Lab Activity (By Pair) on City Management and Planning 
+Lab Activity (By Pair) on City Management and Planning 11/28/2024 
 
 ![image](https://github.com/user-attachments/assets/39c65c2c-de15-4c6a-ae22-b9ff556f53a8)
 
