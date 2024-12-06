@@ -152,9 +152,7 @@ Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
 material?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+Active learning is the most effective strategy in learning that I’ve been doing since day one. Other techniques include hands-on practice at home which really helped me on the lab activities. I guess consistent reviewing of the topics like repetitive reading and summarizing are also a big help on my exams
 
 Were there any particular assignments, projects, or activities that
 significantly enhanced your learning experience? Why were they
